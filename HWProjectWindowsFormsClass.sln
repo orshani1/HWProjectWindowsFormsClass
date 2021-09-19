@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWProjectWindowsFormsClass", "HWProjectWindowsFormsClass\HWProjectWindowsFormsClass.csproj", "{C424D916-579B-45F8-A1B7-0E94225A5013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackerme.UI", "..\HackermeDB.DB\HackermeDB.DB\Hackerme.UI.csproj", "{1BDE62C9-DC72-4E15-9059-52BE6E633E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C424D916-579B-45F8-A1B7-0E94225A5013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C424D916-579B-45F8-A1B7-0E94225A5013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C424D916-579B-45F8-A1B7-0E94225A5013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C424D916-579B-45F8-A1B7-0E94225A5013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDE62C9-DC72-4E15-9059-52BE6E633E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDE62C9-DC72-4E15-9059-52BE6E633E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDE62C9-DC72-4E15-9059-52BE6E633E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDE62C9-DC72-4E15-9059-52BE6E633E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCEFEE3-F2DE-4CE7-827C-33181783992C}
+	EndGlobalSection
+EndGlobal
